@@ -1,2 +1,3 @@
-# grabber-john
-Websites grabber with UI
+# Grabber John
+
+Websites content parser with UI.
